@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://yashgo09.github.io/testimonials-grid-section)
+- Live Site URL: [https://yashgo09.github.io/testimonials-grid-section](https://yashgo09.github.io/testimonials-grid-section/)
 
 ## My process
 
